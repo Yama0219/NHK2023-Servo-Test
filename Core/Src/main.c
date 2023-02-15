@@ -35,7 +35,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-#define PWM_MIN 544
+#define PWM_MIN 540
 #define PWM_MAX 2400
 
 #define A_OFFSET 0
